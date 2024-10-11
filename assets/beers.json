@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Singha",
+      "description": "A premium Thai beer with rich flavor.",
+      "price": "100 THB",
+      "image": "assets/images/singha.png"
+    },
+    {
+      "name": "Chang",
+      "description": "A well-known beer in Thailand, great for any occasion.",
+      "price": "80 THB",
+      "image": "assets/images/chang.png"
+    },
+    {
+      "name": "Leo",
+      "description": "A smooth beer perfect for casual drinking.",
+      "price": "90 THB",
+      "image": "https://png.pngtree.com/png-vector/20231015/ourmid/pngtree-cold-beer-bottle-glass-png-image_10289151.png"
+    }
+  ]
+  
